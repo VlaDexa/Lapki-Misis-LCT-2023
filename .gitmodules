@@ -1,0 +1,6 @@
+[submodule "lct-2023-front"]
+	path = lct-2023-front
+	url = https://github.com/VlaDexa/lct-2023-front
+[submodule "lct_hack"]
+	path = lct_hack
+	url = https://github.com/mixa000012/lct_hack.git
